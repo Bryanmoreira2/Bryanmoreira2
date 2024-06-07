@@ -13,7 +13,7 @@ Tenho experiência em:
 
 Aqui estão alguns projetos que desenvolvi:
 
-- **convert there(link para o repositório)** 📁
+- **CodeClub-Convert-Money https://github.com/Bryanmoreira2/CodeClub-Convert-Money** 📁
   - **Descrição:** Um conversor de moeda intuitivo que fornece conversões rápidas e precisas entre uma ampla variedade de moedas globais, utilizando taxas de câmbio atualizadas em tempo real..
   - **Tecnologias Utilizadas:** HTML, CSS, JavaScript
   - **Destaques:** .- Utiliza APIs externas para obter as taxas de câmbio mais recentes.
