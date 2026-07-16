@@ -68,7 +68,40 @@ Como freelancer, desenvolvo projetos reais do zero à entrega — desde a modela
 
 **Stack:** `React` • `TypeScript` • `Node.js` • `Express` • `PostgreSQL` • `JWT` • `Docker`
 
-🔗 [Ver repositório](https://github.com/Bryanmoreira2/COLE_AQUI_O_LINK_DO_KAIROS)
+🔗 [Ver repositório](https://github.com/Bryanmoreira2/Kairo_Agenda)
+
+---
+
+### 💰 DevWallet — Controle Financeiro Pessoal
+
+> Plataforma web full-stack para gerenciar receitas, despesas e visualizar dados financeiros em um dashboard com gráficos interativos.
+
+**Funcionalidades:**
+- Login com conta Google via Firebase Authentication
+- Dashboard com resumo mensal e gráfico de despesas por categoria
+- Histórico financeiro dos últimos 6 meses
+- API REST protegida por middleware de autenticação (JWT do Firebase)
+- Arquitetura separada entre API e SPA, cada uma com seu próprio Dockerfile
+
+**Stack:** `React` • `TypeScript` • `Fastify` • `Prisma` • `MongoDB` • `Firebase` • `Docker`
+
+🔗 [Ver repositório](https://github.com/Bryanmoreira2/DevWallt)
+
+---
+
+### ⛅ Tempo Certo — App de Previsão do Tempo
+
+> Aplicativo mobile para consultar a previsão do tempo de qualquer cidade do mundo, com busca por nome ou localização via GPS.
+
+**Funcionalidades:**
+- Busca dinâmica por nome de cidade
+- Localização atual via GPS com `expo-location`
+- Exibição de temperatura, sensação térmica, umidade e vento
+- Tratamento amigável de erros de rede e cidades não encontradas
+
+**Stack:** `React Native` • `Expo` • `TypeScript` • `Axios` • `OpenWeatherMap API`
+
+🔗 [Ver repositório](https://github.com/Bryanmoreira2/Tempo_certo)
 
 ---
 
@@ -100,7 +133,7 @@ Como freelancer, desenvolvo projetos reais do zero à entrega — desde a modela
 ## 📈 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bryanmoreira2&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Bryanmoreira2&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -122,5 +155,5 @@ Como freelancer, desenvolvo projetos reais do zero à entrega — desde a modela
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Bryanmoreira2/count.svg?" />
+  <img src="https://komarev.com/ghpvc/?username=Bryanmoreira2&color=blue" />
 </div>
